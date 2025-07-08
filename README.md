@@ -30,7 +30,7 @@ Este projeto está licenciado sob a **Creative Commons Attribution-NonCommercial
 > ✔ Uso pessoal e educacional permitido  
 > ❌ Proibido uso comercial sem autorização
 
-Para pedidos de licença comercial, contactar: **helder@seudominio.com**
+Para pedidos de licença comercial, contactar: **helder.quintas@gmail.com**
 
 ## 📷 Demonstração
 
@@ -47,4 +47,4 @@ Para uso comercial ou distribuição, é necessária autorização prévia.
 
 ---
 
-Desenvolvido por **Helder Quintas**
+Desenvolvido por **Helder Quintas**Souto**Abrantes**
