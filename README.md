@@ -47,4 +47,4 @@ Para uso comercial ou distribuição, é necessária autorização prévia.
 
 ---
 
-Desenvolvido por **Helder Quintas**Souto**Abrantes**
+Desenvolvido por **Helder Quintas** - Souto - **Abrantes**
